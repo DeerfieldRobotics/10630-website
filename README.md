@@ -1,2 +1,5 @@
-# website
-Since we have a domain lets make a website for that domain????
+# team-10630
+
+Hi, we're Team 10630.
+
+We build and program robots
