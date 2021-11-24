@@ -6,4 +6,4 @@ We build and program robots.
 
 This is our website's source. 
 
-We have to decide what to do with this lol
+Merged into DHS Robotics repo so I can take down the 10630 org without affecting other things.
